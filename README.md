@@ -1,4 +1,7 @@
 # InitiumArcanus2
+
+Note: this project is no longer in development. If there's any major bug I can push a hotfix. Keep reporting if you wish, but I cannot promise you to fix anything.
+
 Github for my new modpack InitiumArcanus
 
 
